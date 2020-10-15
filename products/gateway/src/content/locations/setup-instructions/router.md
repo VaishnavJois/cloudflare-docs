@@ -12,7 +12,7 @@ order: 1
 * Click Properties.
 * Select Internet Protocol Version 4.
 * Click Properties.
-* Remove any IP addresses that may be already listed and in their place add the following IP addresses:
+* Remove any IP addresses that may be already listed in DNS server list and in their place add the following IP addresses:
     * **172.64.36.1**
     * **172.64.36.2**
 * Click OK.
